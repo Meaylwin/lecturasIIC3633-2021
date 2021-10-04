@@ -1,6 +1,8 @@
 <h1>Lectura 7: Interactive recommender systems: A survey of the state of the art and future research challenges and opportunities.  </h1>
-<h3> He, C., Parra, D., & Verbert, K. </h3>  
+<h3> He, C., Parra, D., & Verbert, K. </h3> 
+
 Resumidamente, el paper aborda el tema de las interacciones que tienen los usuarios con los sistemas recomendadores y el desarrollo de interfaces visuales que han permitido mejorar esas interacciones. La implementación de estas interfaces en RecSys tiene varios objetivos, entre las cuales se destaca la búsqueda de mejora en la transparencia y al mismo tiempo la justificación, es decir, que el usuario pueda entender mejor como y por qué está recibiendo esas recomendaciones. También busca mejorar el control que tienen los usuarios sobre estos sistemas, por otro lado intentan mejorar la diversidad, lo que implica que el usuario pueda observar que tan distintas son sus recomendaciones con su perfil, y también busca implementar formas de que los nuevos usuarios reciban buenas recomendaciones a pesar de que el sistema tenga pocos parámetros, lo que se denomina como *Cold Start*.  
+
 
 Lo que me pareció más destacable  de este paper es la importancia que le dan al usuario, ya que, a diferencia de otros papers, que se basaban en explicar las falencias que ellos veían en los sistemas recomedadores y como sus algoritmos mejoraban esta situación, este artículo intenta mejorar las recomendaciones desde otra mirada, donde se busca que el usuario se familiarice con el sistema y entienda como funcionan sus recomendaciones a partir de visualizaciones, con el objetivo de que el mismo usuario sea partícipe en la mejora de las recomendaciones que recibirá en el futuro, algo que claramente le beneficia.  
 
